@@ -1,4 +1,4 @@
-# Land Page made with help of excelent tutorial , using effects of JavaScript.
+# Land Page made with help of excelent tutorial , using effects of CSS and JavaScript.
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # See this project
